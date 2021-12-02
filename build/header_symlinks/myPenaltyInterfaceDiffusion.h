@@ -1,1 +1,1 @@
-/home/lcy/Moose/project/testthing/include/base/InterfaceKernels/myPenaltyInterfaceDiffusion.h
+/home/lcy/Moose/project/testthing/include/InterfaceKernels/myPenaltyInterfaceDiffusion.h

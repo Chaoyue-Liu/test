@@ -22,10 +22,4 @@ protected:
   const MaterialProperty<Real> * const _jump;
 
   const VariableValue & _cl;
-
-  const Real F=96500;
-  const Real k=1.68e-10;
-  const Real R=8.314;
-  const Real T=298.15;
-  const Real alpha=0.5;
 };
